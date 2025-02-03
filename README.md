@@ -4,6 +4,7 @@ Functions-Tools-and-Agents-with-LangChain
 This repository contains a collection of Jupyter notebooks demonstrating various functionalities and implementations using LangChain, focusing on Functions, Tools, and Agents.
 
 Here You can reach more detail about this repo
+
 https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/4/openai-function-calling-in-langchain
 
 L1-openai_functions.ipynb
