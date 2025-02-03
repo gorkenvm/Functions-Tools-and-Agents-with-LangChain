@@ -49,31 +49,12 @@ Getting Started
 
 Clone the repository
 
-bashCopygit clone https://github.com/yourusername/Functions-Tools-and-Agents-with-LangChain.git
+bash Copy : git clone https://github.com/yourusername/Functions-Tools-and-Agents-with-LangChain.git
 
-Install required dependencies
-
-bashCopypip install langchain openai jupyter
-
-Open the notebooks in Jupyter
-
-bashCopyjupyter notebook
-Prerequisites
 
 Python 3.7+
 Jupyter Notebook
 Basic understanding of LangChain and OpenAI concepts
-
-Contributing
-Feel free to contribute to this repository by:
-
-Opening issues for bugs or suggestions
-Submitting pull requests with improvements
-Adding more examples and use cases
-
-License
-This project is open source and available under the MIT License.
-Acknowledgments
 
 LangChain community
 OpenAI for their API and tools
