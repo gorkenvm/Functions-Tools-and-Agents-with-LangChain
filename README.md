@@ -10,7 +10,7 @@ A collection of **Jupyter notebooks** demonstrating core **LangChain** capabilit
 
 Each notebook covers a specific capability:
 
-1. **[L1-openai_functions.ipynb](./L1-openai_functions.ipynb)**  
+1. **[L1-openai_functions.ipynb](./notebooks/L1-openai_functions.ipynb)**  
    Intro to **OpenAI Functions** and basic usage patterns
 
 2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./L2-LangChain_Expression_Language_LCEL.ipynb)**  
