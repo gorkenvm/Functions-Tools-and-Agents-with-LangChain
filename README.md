@@ -29,3 +29,75 @@ Each notebook covers a specific capability:
    Building **functional conversation** flows and managing state
 
 ---
+
+## 📊 Learning Workflow
+
+```mermaid
+flowchart TD
+    A[OpenAI Functions] --> B[LCEL Basics]
+    B --> C[Function Calling]
+    C --> D[Tagging & Extraction]
+    D --> E[Tools & API Routing]
+    E --> F[Functional Conversations]
+```
+🚀 Quick Start
+```
+# 1) Clone
+git clone https://github.com/gorkenvm/Functions-Tools-and-Agents-with-LangChain.git
+cd Functions-Tools-and-Agents-with-LangChain
+# 2) (Recommended) Create a virtual environment
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+# 3) Install dependencies
+# Option A: use requirements.txt (see below)
+# pip install -r requirements.txt
+```
+
+---
+## 🛠️ Project Structure
+
+```bash
+Functions-Tools-and-Agents-with-LangChain/
+│── notebooks/                 → Jupyter notebooks for each lesson
+│   │── L1-openai_functions.ipynb
+│   │── L2-LangChain_Expression_Language_LCEL.ipynb
+│   │── L3-function-calling.ipynb
+│   │── L4-tagging-and-extraction.ipynb
+│   │── L5-tools-routing-apis.ipynb
+│   │── L6-functional_conversation.ipynb
+│── README.md                  → Project documentation
+│── .env                  
+│── requirements.txt
+
+```
+
+---
+
+---
+
+## 📖 Usage
+
+- Open the desired notebook in the `notebooks/` folder.  
+- Run cells step by step to explore functionality.  
+- Modify and extend examples for your own projects.  
+
+---
+📖 Usage
+•	Open any notebook and run cells top-to-bottom.
+•	Replace prompts/parameters with your own use cases.
+•	Extend examples to fit your application needs.
+---
+
+---
+## 📚 Resources
+
+- [DeepLearning.AI – Functions, Tools, and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/4/openai-function-calling-in-langchain)  
+- [LangChain Documentation](https://python.langchain.com/)  
+- [OpenAI API Reference](https://platform.openai.com/docs/)  
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Please fork the repo and submit a pull request, or open an issue if you encounter a problem.
+
