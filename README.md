@@ -13,19 +13,19 @@ Each notebook covers a specific capability:
 1. **[L1-openai_functions.ipynb](./notebooks/L1-openai_functions.ipynb)**  
    Intro to **OpenAI Functions** and basic usage patterns
 
-2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./L2-LangChain_Expression_Language_LCEL.ipynb)**  
+2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./notebooks/L2-LangChain_Expression_Language_LCEL.ipynb)**  
    Understanding **LCEL (LangChain Expression Language)** with examples
 
-3. **[L3-function-calling.ipynb](./L3-function-calling.ipynb)**  
+3. **[L3-function-calling.ipynb](./notebooks/L3-function-calling.ipynb)**  
    **Function calling** in LangChain—patterns and best practices
 
-4. **[L4-tagging-and-extraction.ipynb](./L4-tagging-and-extraction.ipynb)**  
+4. **[L4-tagging-and-extraction.ipynb](./notebooks/L4-tagging-and-extraction.ipynb)**  
    Data **tagging** and **information extraction** techniques
 
-5. **[L5-tools-routing-apis.ipynb](./L5-tools-routing-apis.ipynb)**  
+5. **[L5-tools-routing-apis.ipynb](./notebooks/L5-tools-routing-apis.ipynb)**  
    **Tool** creation/management and **API routing** strategies
 
-6. **[L6-functional_conversation.ipynb](./L6-functional_conversation.ipynb)**  
+6. **[L6-functional_conversation.ipynb](./notebooks/L6-functional_conversation.ipynb)**  
    Building **functional conversation** flows and managing state
 
 ---
