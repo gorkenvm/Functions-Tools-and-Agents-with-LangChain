@@ -13,7 +13,7 @@ Each notebook covers a specific capability:
 1. **[L1-openai_functions.ipynb](./notebooks/L1-openai_functions.ipynb)**  
    Intro to **OpenAI Functions** and basic usage patterns
 
-2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./notebooks/L2-LangChain Expression Language LCEL.ipynb)**  
+2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./notebooks/L2-LangChain_Expression_Language_LCEL.ipynb)**  
    Understanding **LCEL (LangChain Expression Language)** with examples
 
 3. **[L3-function-calling.ipynb](./notebooks/L3-function-calling.ipynb)**  
