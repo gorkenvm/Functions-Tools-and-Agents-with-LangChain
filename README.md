@@ -1,60 +1,31 @@
-# Functions-Tools-and-Agents-with-LangChain
+# ⚡ Functions, Tools & Agents with LangChain
 
-Functions-Tools-and-Agents-with-LangChain
-This repository contains a collection of Jupyter notebooks demonstrating various functionalities and implementations using LangChain, focusing on Functions, Tools, and Agents.
+A collection of **Jupyter notebooks** demonstrating core **LangChain** capabilities with a focus on **Functions, Tools, and Agents**. The goal is to make concepts **clear, practical, and reproducible**.
 
-Here You can reach more detail about this repo
+> 🎯 **Objective:** Learn LangChain’s core features through hands-on notebooks you can run, tweak, and reuse in your own projects.
 
-https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/4/openai-function-calling-in-langchain
+---
 
-L1-openai_functions.ipynb
+## 📚 Lessons
 
-Introduction to OpenAI functions
-Basic implementation and usage examples
+Each notebook covers a specific capability:
 
+1. **[L1-openai_functions.ipynb](./L1-openai_functions.ipynb)**  
+   Intro to **OpenAI Functions** and basic usage patterns
 
-L2-LangChain Expression Language LCEL.ipynb
+2. **[L2-LangChain_Expression_Language_LCEL.ipynb](./L2-LangChain_Expression_Language_LCEL.ipynb)**  
+   Understanding **LCEL (LangChain Expression Language)** with examples
 
-Understanding LangChain Expression Language (LCEL)
-Examples of LCEL implementation
+3. **[L3-function-calling.ipynb](./L3-function-calling.ipynb)**  
+   **Function calling** in LangChain—patterns and best practices
 
+4. **[L4-tagging-and-extraction.ipynb](./L4-tagging-and-extraction.ipynb)**  
+   Data **tagging** and **information extraction** techniques
 
-L3-function-calling.ipynb
+5. **[L5-tools-routing-apis.ipynb](./L5-tools-routing-apis.ipynb)**  
+   **Tool** creation/management and **API routing** strategies
 
-Detailed examples of function calling in LangChain
-Implementation patterns and best practices
+6. **[L6-functional_conversation.ipynb](./L6-functional_conversation.ipynb)**  
+   Building **functional conversation** flows and managing state
 
-
-L4-tagging-and-extraction.ipynb
-
-Data tagging techniques
-Information extraction methods using LangChain
-
-
-L5-tools-routing-apis.ipynb
-
-Tool implementation and management
-API routing strategies
-Integration examples
-
-
-L6-functional_conversation.ipynb
-
-Building functional conversation flows
-Conversation management techniques
-
-
-
-Getting Started
-
-Clone the repository
-
-bash Copy : git clone https://github.com/yourusername/Functions-Tools-and-Agents-with-LangChain.git
-
-
-Python 3.7+
-Jupyter Notebook
-Basic understanding of LangChain and OpenAI concepts
-
-LangChain community
-OpenAI for their API and tools
+---
